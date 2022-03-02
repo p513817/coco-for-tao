@@ -1,0 +1,322 @@
+{
+    "1": {
+        "supercategory": "person",
+        "name": "person"
+    },
+    "2": {
+        "supercategory": "vehicle",
+        "name": "bicycle"
+    },
+    "3": {
+        "supercategory": "vehicle",
+        "name": "car"
+    },
+    "4": {
+        "supercategory": "vehicle",
+        "name": "motorcycle"
+    },
+    "5": {
+        "supercategory": "vehicle",
+        "name": "airplane"
+    },
+    "6": {
+        "supercategory": "vehicle",
+        "name": "bus"
+    },
+    "7": {
+        "supercategory": "vehicle",
+        "name": "train"
+    },
+    "8": {
+        "supercategory": "vehicle",
+        "name": "truck"
+    },
+    "9": {
+        "supercategory": "vehicle",
+        "name": "boat"
+    },
+    "10": {
+        "supercategory": "outdoor",
+        "name": "traffic light"
+    },
+    "11": {
+        "supercategory": "outdoor",
+        "name": "fire hydrant"
+    },
+    "13": {
+        "supercategory": "outdoor",
+        "name": "stop sign"
+    },
+    "14": {
+        "supercategory": "outdoor",
+        "name": "parking meter"
+    },
+    "15": {
+        "supercategory": "outdoor",
+        "name": "bench"
+    },
+    "16": {
+        "supercategory": "animal",
+        "name": "bird"
+    },
+    "17": {
+        "supercategory": "animal",
+        "name": "cat"
+    },
+    "18": {
+        "supercategory": "animal",
+        "name": "dog"
+    },
+    "19": {
+        "supercategory": "animal",
+        "name": "horse"
+    },
+    "20": {
+        "supercategory": "animal",
+        "name": "sheep"
+    },
+    "21": {
+        "supercategory": "animal",
+        "name": "cow"
+    },
+    "22": {
+        "supercategory": "animal",
+        "name": "elephant"
+    },
+    "23": {
+        "supercategory": "animal",
+        "name": "bear"
+    },
+    "24": {
+        "supercategory": "animal",
+        "name": "zebra"
+    },
+    "25": {
+        "supercategory": "animal",
+        "name": "giraffe"
+    },
+    "27": {
+        "supercategory": "accessory",
+        "name": "backpack"
+    },
+    "28": {
+        "supercategory": "accessory",
+        "name": "umbrella"
+    },
+    "31": {
+        "supercategory": "accessory",
+        "name": "handbag"
+    },
+    "32": {
+        "supercategory": "accessory",
+        "name": "tie"
+    },
+    "33": {
+        "supercategory": "accessory",
+        "name": "suitcase"
+    },
+    "34": {
+        "supercategory": "sports",
+        "name": "frisbee"
+    },
+    "35": {
+        "supercategory": "sports",
+        "name": "skis"
+    },
+    "36": {
+        "supercategory": "sports",
+        "name": "snowboard"
+    },
+    "37": {
+        "supercategory": "sports",
+        "name": "sports ball"
+    },
+    "38": {
+        "supercategory": "sports",
+        "name": "kite"
+    },
+    "39": {
+        "supercategory": "sports",
+        "name": "baseball bat"
+    },
+    "40": {
+        "supercategory": "sports",
+        "name": "baseball glove"
+    },
+    "41": {
+        "supercategory": "sports",
+        "name": "skateboard"
+    },
+    "42": {
+        "supercategory": "sports",
+        "name": "surfboard"
+    },
+    "43": {
+        "supercategory": "sports",
+        "name": "tennis racket"
+    },
+    "44": {
+        "supercategory": "kitchen",
+        "name": "bottle"
+    },
+    "46": {
+        "supercategory": "kitchen",
+        "name": "wine glass"
+    },
+    "47": {
+        "supercategory": "kitchen",
+        "name": "cup"
+    },
+    "48": {
+        "supercategory": "kitchen",
+        "name": "fork"
+    },
+    "49": {
+        "supercategory": "kitchen",
+        "name": "knife"
+    },
+    "50": {
+        "supercategory": "kitchen",
+        "name": "spoon"
+    },
+    "51": {
+        "supercategory": "kitchen",
+        "name": "bowl"
+    },
+    "52": {
+        "supercategory": "food",
+        "name": "banana"
+    },
+    "53": {
+        "supercategory": "food",
+        "name": "apple"
+    },
+    "54": {
+        "supercategory": "food",
+        "name": "sandwich"
+    },
+    "55": {
+        "supercategory": "food",
+        "name": "orange"
+    },
+    "56": {
+        "supercategory": "food",
+        "name": "broccoli"
+    },
+    "57": {
+        "supercategory": "food",
+        "name": "carrot"
+    },
+    "58": {
+        "supercategory": "food",
+        "name": "hot dog"
+    },
+    "59": {
+        "supercategory": "food",
+        "name": "pizza"
+    },
+    "60": {
+        "supercategory": "food",
+        "name": "donut"
+    },
+    "61": {
+        "supercategory": "food",
+        "name": "cake"
+    },
+    "62": {
+        "supercategory": "furniture",
+        "name": "chair"
+    },
+    "63": {
+        "supercategory": "furniture",
+        "name": "couch"
+    },
+    "64": {
+        "supercategory": "furniture",
+        "name": "potted plant"
+    },
+    "65": {
+        "supercategory": "furniture",
+        "name": "bed"
+    },
+    "67": {
+        "supercategory": "furniture",
+        "name": "dining table"
+    },
+    "70": {
+        "supercategory": "furniture",
+        "name": "toilet"
+    },
+    "72": {
+        "supercategory": "electronic",
+        "name": "tv"
+    },
+    "73": {
+        "supercategory": "electronic",
+        "name": "laptop"
+    },
+    "74": {
+        "supercategory": "electronic",
+        "name": "mouse"
+    },
+    "75": {
+        "supercategory": "electronic",
+        "name": "remote"
+    },
+    "76": {
+        "supercategory": "electronic",
+        "name": "keyboard"
+    },
+    "77": {
+        "supercategory": "electronic",
+        "name": "cell phone"
+    },
+    "78": {
+        "supercategory": "appliance",
+        "name": "microwave"
+    },
+    "79": {
+        "supercategory": "appliance",
+        "name": "oven"
+    },
+    "80": {
+        "supercategory": "appliance",
+        "name": "toaster"
+    },
+    "81": {
+        "supercategory": "appliance",
+        "name": "sink"
+    },
+    "82": {
+        "supercategory": "appliance",
+        "name": "refrigerator"
+    },
+    "84": {
+        "supercategory": "indoor",
+        "name": "book"
+    },
+    "85": {
+        "supercategory": "indoor",
+        "name": "clock"
+    },
+    "86": {
+        "supercategory": "indoor",
+        "name": "vase"
+    },
+    "87": {
+        "supercategory": "indoor",
+        "name": "scissors"
+    },
+    "88": {
+        "supercategory": "indoor",
+        "name": "teddy bear"
+    },
+    "89": {
+        "supercategory": "indoor",
+        "name": "hair drier"
+    },
+    "90": {
+        "supercategory": "indoor",
+        "name": "toothbrush"
+    }
+}

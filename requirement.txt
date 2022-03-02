@@ -1,0 +1,5 @@
+importlib-resources==5.4.0
+numpy==1.19.5
+opencv-python==4.5.5.62
+tqdm==4.63.0
+zipp==3.6.0

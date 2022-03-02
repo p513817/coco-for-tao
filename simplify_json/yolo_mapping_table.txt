@@ -1,0 +1,320 @@
+  target_class_mapping { 
+    key: "person"
+    value: "person"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "bicycle"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "car"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "motorcycle"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "airplane"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "bus"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "train"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "truck"
+ }
+  target_class_mapping { 
+    key: "vehicle"
+    value: "boat"
+ }
+  target_class_mapping { 
+    key: "outdoor"
+    value: "traffic light"
+ }
+  target_class_mapping { 
+    key: "outdoor"
+    value: "fire hydrant"
+ }
+  target_class_mapping { 
+    key: "outdoor"
+    value: "stop sign"
+ }
+  target_class_mapping { 
+    key: "outdoor"
+    value: "parking meter"
+ }
+  target_class_mapping { 
+    key: "outdoor"
+    value: "bench"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "bird"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "cat"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "dog"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "horse"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "sheep"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "cow"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "elephant"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "bear"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "zebra"
+ }
+  target_class_mapping { 
+    key: "animal"
+    value: "giraffe"
+ }
+  target_class_mapping { 
+    key: "accessory"
+    value: "backpack"
+ }
+  target_class_mapping { 
+    key: "accessory"
+    value: "umbrella"
+ }
+  target_class_mapping { 
+    key: "accessory"
+    value: "handbag"
+ }
+  target_class_mapping { 
+    key: "accessory"
+    value: "tie"
+ }
+  target_class_mapping { 
+    key: "accessory"
+    value: "suitcase"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "frisbee"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "skis"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "snowboard"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "sports ball"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "kite"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "baseball bat"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "baseball glove"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "skateboard"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "surfboard"
+ }
+  target_class_mapping { 
+    key: "sports"
+    value: "tennis racket"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "bottle"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "wine glass"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "cup"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "fork"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "knife"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "spoon"
+ }
+  target_class_mapping { 
+    key: "kitchen"
+    value: "bowl"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "banana"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "apple"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "sandwich"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "orange"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "broccoli"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "carrot"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "hot dog"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "pizza"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "donut"
+ }
+  target_class_mapping { 
+    key: "food"
+    value: "cake"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "chair"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "couch"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "potted plant"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "bed"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "dining table"
+ }
+  target_class_mapping { 
+    key: "furniture"
+    value: "toilet"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "tv"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "laptop"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "mouse"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "remote"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "keyboard"
+ }
+  target_class_mapping { 
+    key: "electronic"
+    value: "cell phone"
+ }
+  target_class_mapping { 
+    key: "appliance"
+    value: "microwave"
+ }
+  target_class_mapping { 
+    key: "appliance"
+    value: "oven"
+ }
+  target_class_mapping { 
+    key: "appliance"
+    value: "toaster"
+ }
+  target_class_mapping { 
+    key: "appliance"
+    value: "sink"
+ }
+  target_class_mapping { 
+    key: "appliance"
+    value: "refrigerator"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "book"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "clock"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "vase"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "scissors"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "teddy bear"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "hair drier"
+ }
+  target_class_mapping { 
+    key: "indoor"
+    value: "toothbrush"
+ }

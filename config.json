@@ -1,0 +1,23 @@
+{
+    "reduce_ratio": 0.01,
+    "train":{
+        "enable": true,
+        "json_file": "./annotations_trainval2014/annotations/instances_train2014.json",
+        "src_image_dir": "./train2014",
+        "dst_image_dir": "./data/train/images",
+        "dst_label_dir": "./data/train/labels"
+    },
+    "test":{
+        "enable": true,
+        "split_ratio_from_train": 0.1,
+        "dst_image_dir": "./data/test/images",
+        "dst_label_dir": "./data/test/labels"
+    },
+    "val":{
+        "enable": true,
+        "json_file": "./annotations_trainval2014/annotations/instances_val2014.json",
+        "src_image_dir": "./val2014",
+        "dst_image_dir": "./data/val/images",
+        "dst_label_dir": "./data/val/labels"
+    }
+}
